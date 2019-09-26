@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "twitter-listener", "twitter-listener.pyproj", "{B7C5EB83-7554-4076-B26B-BD0389AA7F00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7C5EB83-7554-4076-B26B-BD0389AA7F00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7C5EB83-7554-4076-B26B-BD0389AA7F00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {199ED6C0-7042-4761-AB59-A1178C6E7451}
+	EndGlobalSection
+EndGlobal
